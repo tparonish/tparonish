@@ -1,5 +1,6 @@
 ### Hello World! 👋 
-![scubatocat](https://user-images.githubusercontent.com/92117100/145472437-834c0a4d-30d0-4124-94e9-c90e64884a61.png)
+![Octory2](https://user-images.githubusercontent.com/92117100/145473665-ef3bd3e3-725b-4560-a10d-a5c3d78f9c78.png)
+
 
 
 <!--
