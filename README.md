@@ -1,6 +1,5 @@
 ### Hello World! 👋 
-![scubatocat](https://user-images.githubusercontent.com/92117100/145473776-7409f6a6-0c67-486f-a9b6-d24b8d5d2f18.png)
-
+![myoctocat](https://user-images.githubusercontent.com/92117100/151047774-8d4be0c5-61e3-4e48-9b5e-f7d62019a7ee.png)
 
 
 
@@ -9,8 +8,8 @@
 
 Here are some ideas to get you started:
 
+- 🌱 I’m currently learning everything! (I'm new here)
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
